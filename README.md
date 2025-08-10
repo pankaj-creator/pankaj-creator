@@ -2,9 +2,10 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2D8EFF&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Full-Stack+Developer+%7C+AI+Researcher;Building+Scalable+Web+Applications;%26+Publishing+Research+in+Neural+Networks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=460&height=90&lines=Full-Stack+Developer+%7C+AI+Researcher;Building+Scalable+Web+Applications+%26;Publishing+Research+in+Neural+Networks;.)](https://git.io/typing-svg)
 
 </div>
+
 
 <div align="center">
   
