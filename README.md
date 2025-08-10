@@ -241,7 +241,9 @@ timeline
   
 ### 🌟 "Passionate about crafting exceptional digital experiences while pushing the boundaries of AI research"
 
-![Visitor Count](https://profile-counter.glitch.me/pankaj-creator/count.svg)
+![Visitor Count](https://https://visitor-counter-otep.onrender.com/count.svg)
+
+
 
 **⭐ Star my repositories if you find them helpful!**
 
